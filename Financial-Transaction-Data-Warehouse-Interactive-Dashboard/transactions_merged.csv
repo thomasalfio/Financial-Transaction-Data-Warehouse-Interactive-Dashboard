@@ -1,0 +1,2070 @@
+quarter,country_name,symbol,company_name,sector,industry,transaction_type
+Q1,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,BUY
+Q1,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,SELL
+Q1,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,SELL
+Q1,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q1,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q1,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q1,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q1,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q3,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q3,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q3,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q4,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q3,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q3,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q3,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q2,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q2,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q2,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q3,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q2,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q3,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q3,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q2,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q4,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q2,Luxembourg,ALVO,Alvotech,Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PSFE,Paysafe Limited,Technology,Software - Infrastructure,SELL
+Q4,Bermuda,ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,BUY
+Q3,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q3,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q3,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,BUY
+Q1,Mexico,AMX,"America Movil, S.A.B. de C.V.",Communication Services,Telecom Services,BUY
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q1,Mexico,AMX,"America Movil, S.A.B. de C.V.",Communication Services,Telecom Services,SELL
+Q1,Mexico,AMX,"America Movil, S.A.B. de C.V.",Communication Services,Telecom Services,BUY
+Q1,Mexico,AMX,"America Movil, S.A.B. de C.V.",Communication Services,Telecom Services,SELL
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,HRTX,"Heron Therapeutics, Inc.",Healthcare,Biotechnology,SELL
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,ACTG,Acacia Research Corporation,Industrials,Business Equipment & Supplies,BUY
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q3,United States of America,ACTG,Acacia Research Corporation,Industrials,Business Equipment & Supplies,SELL
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q4,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q3,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q3,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q3,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q3,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q3,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,Mexico,AMX,"America Movil, S.A.B. de C.V.",Communication Services,Telecom Services,SELL
+Q3,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,BUY
+Q2,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,SELL
+Q2,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,BUY
+Q2,Peru,BAP,Credicorp Ltd.,Financial Services,Banks - Regional,SELL
+Q2,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q2,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q1,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q2,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,BUY
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q2,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q4,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,BUY
+Q1,United States of America,TRN,"Trinity Industries, Inc.",Industrials,Railroads,BUY
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q4,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,SELL
+Q1,United States of America,TRN,"Trinity Industries, Inc.",Industrials,Railroads,SELL
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q3,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q4,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q3,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q4,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q2,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q2,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q2,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q2,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q2,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q3,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q3,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q2,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q3,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q3,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q4,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q4,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q1,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q4,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q4,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q3,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,BUY
+Q4,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q2,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q4,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q2,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q2,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q4,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q3,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q3,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q3,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q4,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,SELL
+Q2,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q3,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q4,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q3,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q4,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q3,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q3,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q3,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q3,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q3,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,SELL
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q3,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,BUY
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q4,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,"Netherlands, Kingdom of the",ESTC,Elastic N.V.,Technology,Software - Application,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Brazil,PAGS,PagSeguro Digital Ltd.,Technology,Software - Infrastructure,SELL
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q3,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,United States of America,ARDX,"Ardelyx, Inc.",Healthcare,Biotechnology,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,BUY
+Q3,Virgin Islands (British),DESP,"Despegar.com, Corp.",Consumer Cyclical,Travel Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,BUY
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q2,Peru,BVN,Buenaventura Mining Company Inc,Basic Materials,Other Precious Metals & Mining,BUY
+Q2,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,SELL
+Q1,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,Peru,BVN,Buenaventura Mining Company Inc,Basic Materials,Other Precious Metals & Mining,SELL
+Q1,Switzerland,RIG,Transocean Ltd (Switzerland),Energy,Oil & Gas Drilling,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Switzerland,RIG,Transocean Ltd (Switzerland),Energy,Oil & Gas Drilling,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,United States of America,OSCR,"Oscar Health, Inc.",Healthcare,Healthcare Plans,BUY
+Q1,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,BUY
+Q3,United States of America,OSCR,"Oscar Health, Inc.",Healthcare,Healthcare Plans,SELL
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q1,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,BUY
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,India,LTOUF,Larsen & Toubro Ltd.,Industrials,Engineering & Construction,BUY
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q2,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q2,Bermuda,ASC,Ardmore Shipping Corporation,Industrials,Marine Shipping,BUY
+Q2,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q3,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q2,Ireland,RYAAY,Ryanair Holdings plc,Industrials,Airlines,SELL
+Q3,"Taiwan, Province of China",ASX,"ASE Technology Holding Co., Ltd",Technology,Semiconductors,SELL
+Q3,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q3,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q4,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q4,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q4,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q4,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Canada,CAE,CAE Inc.,Industrials,Aerospace & Defense,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q4,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q4,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q4,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Ireland,TT,Trane Technologies plc,Industrials,Building Products & Equipment,BUY
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Canada,CAE,CAE Inc.,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q4,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q4,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q4,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q3,Ireland,TT,Trane Technologies plc,Industrials,Building Products & Equipment,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q3,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q3,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,Canada,CAE,CAE Inc.,Industrials,Aerospace & Defense,BUY
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q2,Ireland,TT,Trane Technologies plc,Industrials,Building Products & Equipment,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q4,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,Switzerland,RIG,Transocean Ltd (Switzerland),Energy,Oil & Gas Drilling,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,Canada,CAE,CAE Inc.,Industrials,Aerospace & Defense,SELL
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q4,Ireland,TT,Trane Technologies plc,Industrials,Building Products & Equipment,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,Switzerland,RIG,Transocean Ltd (Switzerland),Energy,Oil & Gas Drilling,SELL
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q4,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,United States of America,CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,BUY
+Q4,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q4,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q4,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,United States of America,CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,SELL
+Q4,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,BUY
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,United States of America,BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q3,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,United States of America,WDC,Western Digital Corporation,Technology,Computer Hardware,BUY
+Q2,Greece,GSL,Global Ship Lease Inc New,Industrials,Marine Shipping,BUY
+Q2,Greece,GSL,Global Ship Lease Inc New,Industrials,Marine Shipping,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,United States of America,WDC,Western Digital Corporation,Technology,Computer Hardware,SELL
+Q2,Greece,GSL,Global Ship Lease Inc New,Industrials,Marine Shipping,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,BUY
+Q1,United States of America,WDC,Western Digital Corporation,Technology,Computer Hardware,BUY
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,SELL
+Q1,United States of America,WDC,Western Digital Corporation,Technology,Computer Hardware,SELL
+Q2,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q1,United States of America,INTC,Intel Corporation,Technology,Semiconductors,SELL
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,BUY
+Q2,Cayman Islands,STNE,StoneCo Ltd.,Technology,Software - Infrastructure,SELL
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,Bermuda,BORR,Borr Drilling Limited,Energy,Oil & Gas Drilling,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,BUY
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,United States of America,BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,TDC,Teradata Corporation,Technology,Software - Infrastructure,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,TDC,Teradata Corporation,Technology,Software - Infrastructure,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,TDC,Teradata Corporation,Technology,Software - Infrastructure,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,United States of America,TDC,Teradata Corporation,Technology,Software - Infrastructure,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United States of America,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,Ireland,ACN,Accenture plc,Technology,Information Technology Services,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q2,United States of America,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,SELL
+Q2,"Netherlands, Kingdom of the",PHVS,Pharvaris N.V.,Healthcare,Biotechnology,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United States of America,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q3,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,United States of America,CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q3,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,Canada,CAE,CAE Inc.,Industrials,Aerospace & Defense,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,United States of America,CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q3,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,United States of America,UAL,"United Airlines Holdings, Inc.",Industrials,Airlines,BUY
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q3,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,United States of America,UAL,"United Airlines Holdings, Inc.",Industrials,Airlines,SELL
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,Brazil,TIMB,TIM S.A.,Communication Services,Telecom Services,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,WDC,Western Digital Corporation,Technology,Computer Hardware,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,WDC,Western Digital Corporation,Technology,Computer Hardware,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q4,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q3,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,Monaco,STNG,Scorpio Tankers Inc.,Energy,Oil & Gas Midstream,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q4,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q3,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,RDDT,"Reddit, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,Monaco,STNG,Scorpio Tankers Inc.,Energy,Oil & Gas Midstream,SELL
+Q1,Canada,LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q2,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q3,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q1,Israel,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,United States of America,SNEX,StoneX Group Inc.,Financial Services,Capital Markets,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q2,United States of America,APP,Applovin Corporation,Technology,Software - Application,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q3,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,Israel,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,United States of America,SNEX,StoneX Group Inc.,Financial Services,Capital Markets,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,APP,Applovin Corporation,Technology,Software - Application,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United States of America,SKYW,"SkyWest, Inc.",Industrials,Airlines,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,BUY
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,Panama,CPA,"Copa Holdings, S.A.",Industrials,Airlines,BUY
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q3,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,SELL
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,Panama,CPA,"Copa Holdings, S.A.",Industrials,Airlines,SELL
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants,SELL
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,DAL,"Delta Air Lines, Inc.",Industrials,Airlines,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q3,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q2,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,BA,Boeing Company (The),Industrials,Aerospace & Defense,BUY
+Q2,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q2,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q2,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,BA,Boeing Company (The),Industrials,Aerospace & Defense,SELL
+Q2,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q2,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q3,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q3,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q3,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q2,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q2,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q4,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,BUY
+Q1,United States of America,CRM,"Salesforce, Inc.",Technology,Software - Application,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,BUY
+Q1,United States of America,CRM,"Salesforce, Inc.",Technology,Software - Application,BUY
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,United States of America,GDDY,GoDaddy Inc.,Technology,Software - Infrastructure,BUY
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,BUY
+Q4,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q4,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,United States of America,XYZ,"Block, Inc.",Technology,Software - Infrastructure,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q3,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q3,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q2,Ireland,ALLE,Allegion plc,Industrials,Security & Protection Services,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q4,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q2,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,Switzerland,MLTX,MoonLake Immunotherapeutics,Healthcare,Biotechnology,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,SELL
+Q1,United States of America,CRM,"Salesforce, Inc.",Technology,Software - Application,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,SELL
+Q1,United States of America,CRM,"Salesforce, Inc.",Technology,Software - Application,SELL
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,United States of America,GDDY,GoDaddy Inc.,Technology,Software - Infrastructure,SELL
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,SELL
+Q4,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q2,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q1,United States of America,BA,Boeing Company (The),Industrials,Aerospace & Defense,BUY
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q2,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q2,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q3,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q4,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q4,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q4,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,BUY
+Q2,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q3,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,BUY
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q2,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q4,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,BUY
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q3,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,BUY
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q3,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,Switzerland,ONON,On Holding AG,Consumer Cyclical,Footwear & Accessories,BUY
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,CRM,"Salesforce, Inc.",Technology,Software - Application,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,BUY
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,BUY
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,BUY
+Q2,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,BUY
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,BUY
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,BUY
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,SELL
+Q1,United States of America,BA,Boeing Company (The),Industrials,Aerospace & Defense,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q3,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,Israel,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,United States of America,TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q4,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q1,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q4,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,SELL
+Q2,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,IGT,International Game Technology,Consumer Cyclical,Gambling,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q4,China,NIO,NIO Inc.,Consumer Cyclical,Auto Manufacturers,SELL
+Q3,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q3,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,SELL
+Q1,United States of America,DAL,"Delta Air Lines, Inc.",Industrials,Airlines,SELL
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,SELL
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q3,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,SELL
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q3,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q3,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,SELL
+Q2,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,CRM,"Salesforce, Inc.",Technology,Software - Application,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,SELL
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,SELL
+Q2,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q2,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,SELL
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,SELL
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q4,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,SELL
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q1,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q3,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q2,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q3,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q2,United States of America,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q4,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q2,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q2,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q3,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q3,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q3,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q2,Canada,OR,Osisko Gold Royalties Ltd,Basic Materials,Gold,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,ROIV,Roivant Sciences Ltd.,Healthcare,Biotechnology,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q3,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q2,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,BUY
+Q4,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q2,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q3,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q4,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q4,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q2,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q2,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,BUY
+Q2,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q2,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q2,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q3,United States of America,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,BUY
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,BUY
+Q3,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q2,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q2,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q2,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,BUY
+Q4,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q2,United States of America,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,BUY
+Q1,United States of America,AIR,AAR Corp.,Industrials,Aerospace & Defense,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,Canada,OR,Osisko Gold Royalties Ltd,Basic Materials,Gold,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q3,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,BUY
+Q2,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,BUY
+Q2,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,BUY
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q4,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q2,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q1,Germany,CVAC,CureVac N.V.,Healthcare,Biotechnology,BUY
+Q4,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q3,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q2,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q2,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q3,Switzerland,CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,NOMD,Nomad Foods Limited,Consumer Defensive,Packaged Foods,BUY
+Q3,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q3,Switzerland,GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,BUY
+Q3,China,HNGZY,HANGZHOU TIGERMED CONSULTING CO,Healthcare,Diagnostics & Research,BUY
+Q4,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q3,United States of America,V,Visa Inc.,Financial Services,Credit Services,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,PNR,Pentair plc.,Industrials,Specialty Industrial Machinery,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,China,FINV,FinVolution Group,Financial Services,Credit Services,BUY
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q1,United States of America,CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,DIVIDENT
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,DIVIDENT
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,DIVIDENT
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,DIVIDENT
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,DIVIDENT
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,DIVIDENT
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,DIVIDENT
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,DIVIDENT
+Q2,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,DIVIDENT
+Q2,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,DIVIDENT
+Q2,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,DIVIDENT
+Q2,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,DIVIDENT
+Q2,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,DIVIDENT
+Q2,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,DIVIDENT
+Q2,United States of America,V,Visa Inc.,Financial Services,Credit Services,DIVIDENT
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,DIVIDENT
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q2,Ireland,TT,Trane Technologies plc,Industrials,Building Products & Equipment,DIVIDENT
+Q2,United States of America,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,DIVIDENT
+Q2,United States of America,GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,DIVIDENT
+Q2,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,DIVIDENT
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,DIVIDENT
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,DIVIDENT
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,DIVIDENT
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q2,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,DIVIDENT
+Q3,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,DIVIDENT
+Q3,United States of America,DIS,Walt Disney Company (The),Communication Services,Entertainment,DIVIDENT
+Q3,United States of America,JPM,JP Morgan Chase & Co.,Financial Services,Banks - Diversified,DIVIDENT
+Q3,United States of America,DELL,Dell Technologies Inc.,Technology,Computer Hardware,DIVIDENT
+Q3,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,DIVIDENT
+Q3,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,DIVIDENT
+Q3,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,DIVIDENT
+Q3,United States of America,RGA,"Reinsurance Group of America, I",Financial Services,Insurance - Reinsurance,DIVIDENT
+Q3,United States of America,INTC,Intel Corporation,Technology,Semiconductors,DIVIDENT
+Q3,United States of America,V,Visa Inc.,Financial Services,Credit Services,DIVIDENT
+Q3,United States of America,V,Visa Inc.,Financial Services,Credit Services,DIVIDENT
+Q3,Greece,GSL,Global Ship Lease Inc New,Industrials,Marine Shipping,DIVIDENT
+Q3,Greece,GSL,Global Ship Lease Inc New,Industrials,Marine Shipping,DIVIDENT
+Q3,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,DIVIDENT
+Q3,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q3,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q3,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q3,Ireland,MDT,Medtronic plc.,Healthcare,Medical Devices,DIVIDENT
+Q3,Ireland,TT,Trane Technologies plc,Industrials,Building Products & Equipment,DIVIDENT
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,DIVIDENT
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,DIVIDENT
+Q3,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,DIVIDENT
+Q3,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,DIVIDENT
+Q3,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q3,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q3,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,DIVIDENT
+Q4,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,DIVIDENT
+Q4,Switzerland,CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,DIVIDENT
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,DIVIDENT
+Q4,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,DIVIDENT
+Q4,United States of America,IMMR,Immersion Corporation,Technology,Software - Application,DIVIDENT
+Q4,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,DIVIDENT
+Q4,United States of America,AAPL,Apple Inc.,Technology,Consumer Electronics,DIVIDENT
+Q4,Greece,GSL,Global Ship Lease Inc New,Industrials,Marine Shipping,DIVIDENT
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,Ireland,TEL,TE Connectivity plc,Technology,Electronic Components,DIVIDENT
+Q4,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,DIVIDENT
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,DIVIDENT
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,Ireland,ETN,"Eaton Corporation, PLC",Industrials,Specialty Industrial Machinery,DIVIDENT
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,DIVIDENT
+Q3,United States of America,GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,SELL
+Q3,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,Ireland,DOLE,Dole plc,Consumer Defensive,Farm Products,SELL
+Q3,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q1,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q2,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q4,United States of America,AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,SELL
+Q2,Brazil,BRFS,BRF S.A.,Consumer Defensive,Packaged Foods,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q3,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,SELL
+Q1,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,SELL
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q4,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q2,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q3,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q4,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q3,Canada,CVE,Cenovus Energy Inc,Energy,Oil & Gas Integrated,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q3,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q2,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,SELL
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q2,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q2,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q1,United States of America,NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,SELL
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,SELL
+Q1,Canada,TCX,Tucows Inc.,Technology,Software - Infrastructure,SELL
+Q4,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q2,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q3,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q2,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q3,"Taiwan, Province of China",TSM,Taiwan Semiconductor Manufactur,Technology,Semiconductors,SELL
+Q2,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q1,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q2,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q3,United States of America,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,SELL
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q3,United Kingdom of Great Britain and Northern Ireland,ARM,Arm Holdings plc,Technology,Semiconductors,SELL
+Q3,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q2,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q2,Switzerland,AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,SELL
+Q4,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q3,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,SELL
+Q1,United States of America,AIR,AAR Corp.,Industrials,Aerospace & Defense,SELL
+Q1,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,Canada,OR,Osisko Gold Royalties Ltd,Basic Materials,Gold,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,Panama,CPA,"Copa Holdings, S.A.",Industrials,Airlines,SELL
+Q4,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,SELL
+Q2,United States of America,CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,SELL
+Q2,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q3,United States of America,AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,SELL
+Q1,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q1,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q4,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q2,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q4,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q3,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q1,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q3,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q2,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q3,Switzerland,CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q4,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q3,Switzerland,NVCR,NovoCure Limited,Healthcare,Medical Devices,SELL
+Q3,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,SELL
+Q4,United States of America,MA,Mastercard Incorporated,Financial Services,Credit Services,SELL
+Q1,Panama,CPA,"Copa Holdings, S.A.",Industrials,Airlines,SELL
+Q2,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q3,United States of America,V,Visa Inc.,Financial Services,Credit Services,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,China,YMM,Full Truck Alliance Co. Ltd.,Technology,Software - Application,SELL
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,BUY
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,BUY
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,BUY
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,BUY
+Q2,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,BUY
+Q2,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q1,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,CNH,CNH Industrial N.V.,Industrials,Farm & Heavy Construction Machinery,BUY
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,BUY
+Q2,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q3,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q3,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,Mexico,BWMX,"Betterware de Mexico, S.A.P.I. ",Consumer Cyclical,Specialty Retail,BUY
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q3,Canada,SLF,Sun Life Financial Inc.,Financial Services,Insurance - Diversified,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q3,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q3,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,BUY
+Q3,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,BUY
+Q4,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q2,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,BUY
+Q4,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q1,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,BUY
+Q3,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q3,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,BUY
+Q2,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,BUY
+Q2,Mexico,BWMX,"Betterware de Mexico, S.A.P.I. ",Consumer Cyclical,Specialty Retail,BUY
+Q1,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,ZK,ZEEKR Intelligent Technology Ho,Consumer Cyclical,Auto Manufacturers,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q2,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,BUY
+Q2,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,BUY
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q4,Mexico,BWMX,"Betterware de Mexico, S.A.P.I. ",Consumer Cyclical,Specialty Retail,BUY
+Q3,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,BUY
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q4,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,BUY
+Q1,United Kingdom of Great Britain and Northern Ireland,KNSA,"Kiniksa Pharmaceuticals, Ltd.",Healthcare,Drug Manufacturers - Specialty & Generic,BUY
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,BUY
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,BUY
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q2,Germany,SMNEY,Siemens Energy AG,Industrials,Specialty Industrial Machinery,BUY
+Q1,China,EH,EHang Holdings Limited,Industrials,Aerospace & Defense,BUY
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,Canada,IMAX,Imax Corporation,Communication Services,Entertainment,BUY
+Q2,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,BUY
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,BUY
+Q1,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,SELL
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,SELL
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,SELL
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,SELL
+Q2,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,BKNG,Booking Holdings Inc. Common St,Consumer Cyclical,Travel Services,SELL
+Q2,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,Israel,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q3,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q1,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q3,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q4,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q4,Mexico,BWMX,"Betterware de Mexico, S.A.P.I. ",Consumer Cyclical,Specialty Retail,SELL
+Q3,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q3,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q3,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q2,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q1,Israel,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,SELL
+Q1,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q1,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q2,"Netherlands, Kingdom of the",ASML,ASML Holding N.V. - New York Re,Technology,Semiconductor Equipment & Materials,SELL
+Q3,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q4,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q1,Israel,SEDG,"SolarEdge Technologies, Inc.",Technology,Solar,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q3,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q3,China,ATHM,Autohome Inc.,Communication Services,Internet Content & Information,SELL
+Q2,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,Mexico,BWMX,"Betterware de Mexico, S.A.P.I. ",Consumer Cyclical,Specialty Retail,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q4,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q2,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q4,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q4,Mexico,BWMX,"Betterware de Mexico, S.A.P.I. ",Consumer Cyclical,Specialty Retail,SELL
+Q3,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,United States of America,MSFT,Microsoft Corporation,Technology,Software - Infrastructure,SELL
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q4,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,Luxembourg,SPOT,Spotify Technology S.A.,Communication Services,Internet Content & Information,SELL
+Q1,United Kingdom of Great Britain and Northern Ireland,LIN,Linde plc,Basic Materials,Specialty Chemicals,SELL
+Q1,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q4,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,United States of America,BLK,"BlackRock, Inc.",Financial Services,Asset Management,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q2,Germany,DTRUY,DAIMLER TRUCK HLDG AG,Industrials,Farm & Heavy Construction Machinery,SELL
+Q1,India,INFY,Infosys Limited,Technology,Information Technology Services,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
+Q1,China,WB,Weibo Corporation,Communication Services,Internet Content & Information,SELL
+Q3,United States of America,META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,SELL
+Q2,United States of America,LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,SELL
