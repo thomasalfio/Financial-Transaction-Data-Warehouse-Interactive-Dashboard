@@ -1,2 +1,1 @@
-# Financial-Transaction-Data-Warehouse-Interactive-Dashboard
-This project focuses on the design and implementation of a data warehouse and an interactive dashboard for analyzing financial transaction data. The core of the project is a star schema designed to model transaction data from three distinct CSV files
+This project presents an end-to-end solution for financial transaction data analysis. It involves designing a star schema, performing an ETL (Extract, Transform, Load) process, and building a multi-page, interactive dashboard using Streamlit. The dashboard includes a unique AI-powered visualization feature, which uses natural language queries to generate dynamic charts and graphs
